@@ -8,9 +8,9 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
  - 为该组的每个文档渲染一个侧边栏
  - 提供上一个/下一个导航
 
- 侧边栏可以从文件系统生成，也可以在此处显式定义。
+ 侧边栏可以从文件系统生成，也可以在此处显式定义
 
- 创建任意数量的侧边栏。
+ 创建任意数量的侧边栏
  */
 const sidebars: SidebarsConfig = {
   // 默认情况下，Docusaurus 从 docs 文件夹结构生成侧边栏
