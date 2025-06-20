@@ -3,7 +3,7 @@ sidebar_position: 1
 title: 1.客户端安装
 sidebar_label: 1.客户端安装
 ---
-
+import Link from '@docusaurus/Link';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import Admonition from '@theme/Admonition';
@@ -22,6 +22,16 @@ import Admonition from '@theme/Admonition';
 然后打开VRCub交流群
 
 点击群文件，并选择`客户端在这里`这个文件夹，选择最新的整合包构件版本zip，按自己的需求下载标准版或者青春版
+
+:::warning 更新了整合包的看这里！
+
+在更新前，您需要迁移你的各种各样的数据，详细请查看
+<Link className="button button--secondary button--lg" to="/docs/UserDocs/Tech/qianyi" style={{ height: 47, marginBottom: 20}}>
+    查看 迁移数据 教程
+</Link>
+<h2>数据很宝贵，升级需谨慎，请严格按照教程迁移</h2>
+:::
+
 :::info
  ### 青春版是啥？
 

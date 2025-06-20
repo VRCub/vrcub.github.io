@@ -10,6 +10,10 @@ import Admonition from '@theme/Admonition';
 
 # 迁移你的数据
 
+:::warning 管理员给各位玩家的提示
+<h2>数据很宝贵，升级需谨慎，请严格按照教程迁移</h2>
+:::
+
 ## 小地图数据迁移
 
 将旧版客户端 .minecraft/versions/【客户端版本名，如：VRCub】路径下的 【journeymap】 文件夹替换掉新版客户端同路径的同名文件。
