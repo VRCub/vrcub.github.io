@@ -15,14 +15,14 @@ sidebar_label: 8.玩家传送门 VPortal
 
 首先你需要在"生存主菜单"中找到它
 
-[Image] 强力牌子PowerSign (1).png
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-vportal/vportal_1.png)
 
 点击后并不会立即创建传送门，当你在10秒内"随机传送""传送到领地""传送到他人""小众点评传送"后，会创建一个传送门，如下图所示
 
-[Image] 强力牌子PowerSign (2).png
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-vportal/vportal_2.png)
 
 ## 2.他们应该怎么进入呢？
 
 创建传送门之后，玩家仅需要穿过传送门，三秒后将到达玩家创建的另外一个传送门
 
-[Image] 强力牌子PowerSign.gif
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-vportal/vportal_3.gif)

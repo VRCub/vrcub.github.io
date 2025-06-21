@@ -96,11 +96,6 @@ const config: Config = {
           position: 'left',
           label: '💫管理/协议',
         },
-        {
-          to: '/log-analyzer',
-          label: '🚩日志分析',
-          position: 'left',
-        },
         {to: '/server-status', label: '🛜服务状态', position: 'left'},
         {href: 'https://account.vrcub.net', label: 'Ⓜ️在线地图', position: 'left'},
         {href: 'https://flarum.vrcub.net', label: '🔥论坛', position: 'left'},

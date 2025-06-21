@@ -64,7 +64,7 @@ sidebar_label: 我是侧边栏标题
 如：
 
 ```markdown
-![我是图片](docs-img/how_1_这是个测试内容_dream_pep.png)
+![我是图片](/docs-img/how_1_这是个测试内容_dream_pep.png)
 ```
 
 ### 代码块

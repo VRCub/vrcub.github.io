@@ -17,7 +17,7 @@ sidebar_label: 1.磁石
 
 玩家可以通过在磁石上放置一个告示牌来创建一个传送点，传送点的名字由告示牌上的文本决定（见图1.1）
 
-![Image](https://res.craft.do/user/full/8c64421f-afa1-96e8-dd67-8efce27b11dd/doc/0CD7EAEF-6C78-4553-A019-434678CD942C/626EBD27-7A98-42CB-9AB4-D714C5C2E486_2/1R9HTdoAQyovG0BPl2dp6VFLcMlr6T1awUFuezT5Incz/Image.heic)
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-cishi/cishi_1.png)
 
 图1.1 传送点创建例（主城小麦酒馆）
 
@@ -25,11 +25,11 @@ sidebar_label: 1.磁石
 
 玩家可以通过用指南针（原版）来邮件磁石上的告示牌记录传送点，记录成功后左下角会有提示（图1.2），并且将鼠标移至指南针上时，可以看到已记录的传送点（图1.3）
 
-![Image](https://res.craft.do/user/full/8c64421f-afa1-96e8-dd67-8efce27b11dd/doc/0CD7EAEF-6C78-4553-A019-434678CD942C/35FBEC18-E9E9-415D-993B-B930E8C4AAA1_2/LLQMYzGyfxpxydIT5WNEURJWxZOO5Tiowvx83aZPtDQz/Image.heic)
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-cishi/cishi_2.png)
 
 图1.2 记录成功后的提示
 
-![Image.heic](https://res.craft.do/user/full/8c64421f-afa1-96e8-dd67-8efce27b11dd/doc/0CD7EAEF-6C78-4553-A019-434678CD942C/2A606DCF-1B69-4781-9B13-24E64827AF90_2/jmHNDRUpgQxs2cRYuEB09lE9XZnrncefDJxXyn3JEH8z/Image.heic)
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-cishi/cishi_3.png)
 
 图1.3 记录成功后指南针状态
 
@@ -37,17 +37,17 @@ sidebar_label: 1.磁石
 
 记录传送点后，右键该指南针可以打开指南针ui（图1.4）,
 
-![Image](https://res.craft.do/user/full/8c64421f-afa1-96e8-dd67-8efce27b11dd/doc/0CD7EAEF-6C78-4553-A019-434678CD942C/ACAB0E94-11E1-4C28-9C51-EC5188FCF837_2/KF8mzzQU7zyQENlca8ix3n05MhXg3QlhUEHaeZTCW5Ez/Image.heic)
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-cishi/cishi_4.png)
 
 图1.4 指南针ui
 
 其中左下和右下箭矢是上一页和下一页，中间一栏的纸记录传送点，点击即可传送。另外，拉杆的功能是创建传送门（图1.5.1及图1.5.2），点击后再次点击传送点即可创建一个留在原地的，通往你点击的传送点的，留存30s的传送门（其他人可以通过进入传送门传送）
 
-![Image](https://res.craft.do/user/full/8c64421f-afa1-96e8-dd67-8efce27b11dd/doc/0CD7EAEF-6C78-4553-A019-434678CD942C/4B3787F5-5635-435C-A08B-ABE03A70E276_2/4VvNdaiqZzdaNY7lDW7XXtTpSF3448WI7kR7tygZR5Yz/Image.heic)
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-cishi/cishi_5.png)
 
 图1.5.1 点击拉杆后左下角显示
 
-![Image.heic](https://res.craft.do/user/full/8c64421f-afa1-96e8-dd67-8efce27b11dd/doc/0CD7EAEF-6C78-4553-A019-434678CD942C/76BDDABE-C6EF-4AD7-8BE0-F6C1475772EE_2/5Z17RdzLKQeaoTM3KXn3uUxVoyN5a6AXxyxieFnIxi8z/Image.heic)
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-cishi/cishi_6.png)
 
 图1.5.2成功创建的传送门（需开启粒子效果才能看清）
 
@@ -69,7 +69,7 @@ sidebar_label: 1.磁石
 
 因为按照原版配方的磁石比较昂贵，因此在主城有官方的磁石售卖途径（图1.6）
 
-![Image.heic](https://res.craft.do/user/full/8c64421f-afa1-96e8-dd67-8efce27b11dd/doc/0CD7EAEF-6C78-4553-A019-434678CD942C/E84A32CA-E8DC-48C5-A8E6-61BB799418D0_2/DWsyXVmOzp8mvLtVkCPyA1CIz91LjmbEXZdC6RpXUwUz/Image.heic)
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-cishi/cishi_7.png)
 
 图1.6 磁石在主城的官方售卖点
 
@@ -77,23 +77,23 @@ sidebar_label: 1.磁石
 
 如果破坏传送点上的告示牌，传送点将会被破坏，如果你企图传送到传送点，你将传送失败，并且该传送点在指南针的图标会变化（图1.7.1及图1.7.2）
 
-![Image](https://res.craft.do/user/full/8c64421f-afa1-96e8-dd67-8efce27b11dd/doc/0CD7EAEF-6C78-4553-A019-434678CD942C/C3F2B54B-BF8F-4C8D-8243-51A63396068A_2/gjyrFwQI8C0utpjOSdpuXnM9Dt9mEvk1DdywjP8fZxEz/Image.heic)
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-cishi/cishi_8.png)
 
 图1.7.1 传送点告示牌被破坏后显示传送失败
 
-![Image](https://res.craft.do/user/full/8c64421f-afa1-96e8-dd67-8efce27b11dd/doc/0CD7EAEF-6C78-4553-A019-434678CD942C/279AFD15-E0D8-4E53-A1C4-118622FEBFBD_2/xxSx9mwmm1jpHnDZgY3y5sxXYMW3k8T09JjrxH1i050z/Image.heic)
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-cishi/cishi_9.png)
 
 图1.7.2 传送点告示牌被破坏后传送点ui图标变化
 
 如果将传送点上的告示牌重新放置并再次点击图1.7.2显示的“失效”图标,该传送点将再次激活，但是，即使告示牌被重新放置并且重新命名，指南针显示的传送点将还是原本的名字，如果再次记录，则会显示你已记录过该图标（图1.7.3及1.7.4）
 
-![Image](https://res.craft.do/user/full/8c64421f-afa1-96e8-dd67-8efce27b11dd/doc/0CD7EAEF-6C78-4553-A019-434678CD942C/1D53007F-7B69-4C4B-B933-DA1BCB9A19E1_2/3QCADFamBul8M0v4a3fXLKiTcFqWOFqi9ODMcx9df0Az/Image.heic)
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-cishi/cishi_10.png)
 
 图1.7.3 传送点告示牌再次放置后传送点ui图标变化
 
-![Image.heic](https://res.craft.do/user/full/8c64421f-afa1-96e8-dd67-8efce27b11dd/doc/0CD7EAEF-6C78-4553-A019-434678CD942C/5B9F4CD1-F8D3-4409-9A3A-483C6AA9D5B3_2/9sh8pgtXK4zGlS2GqXB5gYn5sGIyjyxm2cwhIYuEXDEz/Image.heic)
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-cishi/cishi_11.png)
 
-![Image](https://res.craft.do/user/full/8c64421f-afa1-96e8-dd67-8efce27b11dd/doc/0CD7EAEF-6C78-4553-A019-434678CD942C/0C4A1CE9-3543-4FE8-8D8F-C286A65585B1_2/pbqQi5MAG23iA70D73wnlObxkJ1PK7Z4jv0tgBD9CKoz/Image.heic)
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-cishi/cishi_12.png)
 
 图1.7.4传送点告示牌再次放置且修改后传送点名字并未变化
 
@@ -105,11 +105,11 @@ sidebar_label: 1.磁石
 
 直接右键会显示磁石被保护(图1.8.1及图1.8.2）,此时BlockLocker的牌子优先级会大于磁石插件,因此，应该用shift+右键放置能用的传送点.
 
-![Image](https://res.craft.do/user/full/8c64421f-afa1-96e8-dd67-8efce27b11dd/doc/0CD7EAEF-6C78-4553-A019-434678CD942C/CE5D4FFC-99DD-4188-99CE-6AA93888A640_2/gOcGf232OCkbWl90ANlNkVqnxzurGYsLyNUaa82KAbYz/Image.heic)
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-cishi/cishi_13.png)
 
 图1.8.1直接右键磁石后生成的“传送点”
 
-![Image](https://res.craft.do/user/full/8c64421f-afa1-96e8-dd67-8efce27b11dd/doc/0CD7EAEF-6C78-4553-A019-434678CD942C/6CC0D6F5-0196-4F5F-A8EE-BD5B5653CA6B_2/qVHthDZ0ewsqIO166ueXKxeveZBVUOLEU8DPDrwGfmQz/Image.heic)
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-cishi/cishi_14.png)
 
 图1.8.2用指南针右键牌子显示的内容
 
@@ -117,13 +117,13 @@ sidebar_label: 1.磁石
 
 你可以通过在告示牌上写入[ldel]来创建如图1.8.1的牌子
 
-![Image](https://res.craft.do/user/full/8c64421f-afa1-96e8-dd67-8efce27b11dd/doc/0CD7EAEF-6C78-4553-A019-434678CD942C/368C6C9E-6CE5-4FAD-961C-60179DC8FFE1_2/79bH1Ay41YQdNbwenDhRvEH50U0abNz6sYZZ2UMcEf8z/Image.heic)
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-cishi/cishi_15.png)
 
 图1.9.1写入[ldel]创建的牌子
 
 右键该牌子将进入传送点删除的ui（图1.9.2），点击写着相应名字的纸即可删除该地标
 
-![Image](https://res.craft.do/user/full/8c64421f-afa1-96e8-dd67-8efce27b11dd/doc/0CD7EAEF-6C78-4553-A019-434678CD942C/D32443F1-ADD6-403C-BE4B-EB2C0482892A_2/ob5KRxgXYRTZm0U08602P8pFQwbnUnGkQp3AMcxuXr0z/Image.heic)
+![图片加载错误，请截图后到群内@dream_pep](/docs-img/userdocs-cishi/cishi_16.png)
 
 图1.9.2传送点删除页面
 

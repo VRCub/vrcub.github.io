@@ -19,4 +19,4 @@ sidebar_label: 2.建材获取
 
 *（每种建材兑换的量都不一样）*
 
-![我是图片](/docs-img/have_1_clang.png)
+![图片加载失败，请向dream_pep反馈](/docs-img/have_1_clang.png)

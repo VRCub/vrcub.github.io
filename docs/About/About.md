@@ -21,8 +21,6 @@ import Link from '@docusaurus/Link';
 
 - 感谢 [周-zhou](https://github.com/WCNMSSB) 对文档的修改与整理补充
 
-- 感谢 沈奕辰 对文档的审核与监督
-
 - 感谢 [clang](https://b23.tv/xQFZWtJ) 帮助收集玩家反馈
 
 - 感谢 [天空之橙](https://b23.tv/1YOjCLm) 对服务器进行录播与内容切片

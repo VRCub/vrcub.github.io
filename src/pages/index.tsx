@@ -23,11 +23,9 @@ function HomepageHeader() {
         <img className={styles.heroLogo} src="vrcub-logo/VRCub-white@svg.svg" alt="Lunova Studio Icon" />
         <div style={{ height: '20px' }} /> {/* 添加一个空白容器 */}
         <p className="hero__subtitle">
-          欢迎查看VRCub官方文档
+          欢迎查看VRCub文档
           <br />
-          这里你可以查看到一些问题的解答，希望可以帮到你
-          <br />
-          当然，你也可以Fork我们的文档仓库进行修改，希望你能给我们更好的内容
+          文档为玩家编写，如有问题请多多包涵！
           <br />
         </p>
         <div className={styles.buttons}>
