@@ -19,7 +19,7 @@ export default class Comment extends PureComponent {
 
     this.Waline = init({
       el: this._commentRef.current,
-      serverURL: "https://pl.ncols.cn",
+      serverURL: "https://pl.mcols.cn",
       visitor: true,
       path: this.props.id,
       dark: 'html[data-theme="dark"]',
