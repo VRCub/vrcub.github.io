@@ -69,7 +69,7 @@ const config: Config = {
     announcementBar: {
       id: 'docs-edite-1',
       content:
-        '本文档部分内容仍处于编辑状态，遇到问题请到群内 @dream_pep 反馈，非常感谢你的理解！',
+        '本文档已经停止更新，如需获得更好的帮助，请前往 VRCub语雀 文档！',
       backgroundColor: '#0065d9',
       textColor: '#ffffff',
       isCloseable: false,
