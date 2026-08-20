@@ -101,4 +101,4 @@ But!这个功能在没开启眼追(VRCFT)的时候也能用！
 
 个人感觉还不错
 
-                            我不是[彩蛋](https://b23.tv/FJjLTMq)不要点我！
+                            我不是[彩蛋](https://www.bilibili.com/video/BV1GJ411x7h7)不要点我！
